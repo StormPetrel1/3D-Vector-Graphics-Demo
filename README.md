@@ -2,7 +2,7 @@
 
 A demo of an OpenGL shader using a custom 3D rendering algorithm. Uses vector math such as cross product and dot product to create the projection.
 
-Recommended way to view is to download Love2D v11.5 and drag-drop the source folder onto love.exe. For instructions on building the demo from its source, see the [Love2D documentation](https://love2d.org/wiki/Game_Distribution).
+Recommended way to test is to download Love2D v11.5 and drag-drop the source folder onto love.exe. For instructions on building the demo from its source, see the [Love2D documentation](https://love2d.org/wiki/Game_Distribution).
 
 Shown below is a hilly landscape rendered with the shader:
 
