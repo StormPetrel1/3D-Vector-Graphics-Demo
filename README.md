@@ -1,6 +1,6 @@
-# 3D-Vector-Graphics-Demo
+# 3D Vector Graphics Demo
 
-https://github.com/user-attachments/assets/acb1388d-5bb1-4998-9023-6076c2e8d74c
+A Love2D demo of an OpenGL shader algorithm I created myself. Uses simple vector math to create the 3D projection.
 
-
-https://raw.github.com/StormPetrel1/3D-Vector-Graphics-Demo/main/demo.mp4
+Shown below is a hilly landscape rendered with the shader:
+https://github.com/user-attachments/assets/4ffc9094-2e74-4820-b522-875940a7e7c9
