@@ -1,4 +1,4 @@
-# 3D Vector Graphics Demo
+# Vector-Based 3D Graphics Demo
 
 A demo of an OpenGL shader using a custom 3D rendering algorithm. Uses vector math such as cross product and dot product to create the projection.
 
