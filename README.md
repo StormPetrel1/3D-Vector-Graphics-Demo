@@ -1,6 +1,6 @@
 # 3D Vector Graphics Demo
 
-A Love2D demo of an OpenGL shader algorithm I created myself. Uses simple vector math to create the 3D projection.
+A Love2D demo of an OpenGL shader using a custom algorithm. Uses vector math such as cross product and dot product to create the 3D projection.
 
 Shown below is a hilly landscape rendered with the shader:
 
